@@ -1,0 +1,8 @@
+n = int(input())
+print('     ~       ' * n)
+print('    - -      ' * n)
+print('  ( 0 0 )    ' * n)
+print(' /   v   \   ' * n)
+print('/ (  _  ) \  ' * n)
+print('             ' * n)
+print('   ^^ ^^     ' * n)
